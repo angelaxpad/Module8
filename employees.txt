@@ -6,3 +6,5 @@ Cruz
 45000
 Covarrubias
 110000
+Rodriguez
+30000
