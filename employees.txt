@@ -1,0 +1,8 @@
+Chavez
+50000
+Ramirez
+75000
+Cruz
+45000
+Covarrubias
+110000
